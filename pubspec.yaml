@@ -1,0 +1,6 @@
+name: wip_multiplexer
+description: A tool to multiplex the WIP debugger protocol
+dependencies:
+  args: any
+dev_dependencies:
+  unittest: any
